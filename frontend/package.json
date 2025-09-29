@@ -1,6 +1,7 @@
 {
-  "name": "my-react-app",
+   "name": "influencer-frontend",
   "version": "0.1.0",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.9.0",
