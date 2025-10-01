@@ -1,5 +1,8 @@
 # Instagram Influencer Profile Dashboard
 
+Important Note: To experience the full-stack deployment correctly, you must first open the backend Render link and wait until it fully loads (Render free-tier services may take around 30–60 seconds due to cold start). Once the backend is live, open the frontend link. Otherwise, you may get stuck on the Sign In / Sign Up page while filling details.
+deployment link:https://influencer-frontend-xj5o.onrender.com
+
 A complete MERN stack application that displays Instagram influencer profiles with comprehensive analytics, engagement metrics, and audience demographics.
 
 ## 🚀 Features
